@@ -1,1 +1,1 @@
-# faiq-datascience-task
+# coupon-api-project
